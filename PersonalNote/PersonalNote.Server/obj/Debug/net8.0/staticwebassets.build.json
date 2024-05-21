@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "saCrJuXiIKdgAk0Y3fzQpK135GQ/4swu83G0A/JP2X0=",
+  "Source": "PersonalNote.Server",
+  "BasePath": "_content/PersonalNote.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\WorkStation\\AzureDevOps\\PersonalNote\\PersonalNote\\personalnote.client\\personalnote.client.esproj",
+      "Version": 2,
+      "Source": "personalnote.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
